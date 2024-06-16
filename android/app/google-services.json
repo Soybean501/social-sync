@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232062336767",
+    "project_id": "socialsync-33f42",
+    "storage_bucket": "socialsync-33f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232062336767:android:06dbf426d91aae3eb056ca",
+        "android_client_info": {
+          "package_name": "com.kcs.socialsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgGDBW4RVk3g3cmhrzXC4Vj7sHpKRg20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
